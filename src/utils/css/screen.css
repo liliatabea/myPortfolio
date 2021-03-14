@@ -719,3 +719,8 @@ body {
 .page-template .post-content-body h3 {
     text-align: center;
 }
+
+.background-sketch {
+  display: inline-block;
+  z-index: -10;
+}
