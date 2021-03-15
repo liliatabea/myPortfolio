@@ -19,18 +19,15 @@ const ContactPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            CONTACT ME
-          </h2>
-
-
-          <h3 id="dynamic-styles">My focus is on the visual display of information with a soft spot for creative coding</h3>
-        
-
+          <h1 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
+            Get in touch
+          </h1>
           <p>
-If you'd like to collaborate, feel free to get in touch.
+          Do you have any questions? Would you like to collaborate? I'm happy to hear from you.
           </p>
+          <form>Form: Name, email, subject, message
 
+          </form>
         </div>
       </article>
     </Layout>
@@ -42,15 +39,6 @@ const indexQuery = graphql`
     site {
       siteMetadata {
         title
-      }
-    }
-    benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
       }
     }
   }

@@ -25,10 +25,10 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Hello. Nice of you to pop by. My name is Lilia Rusterholtz and I'm an information and graphic designer.
-          </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
+          <h1 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
+            Eyes open
+          </h1>
+          <figure className="kg-width-full">
           <P5Wrapper sketch={sketch01} />
           </figure>
           <p>
@@ -41,7 +41,7 @@ After moving back to Switzerland in 2017, I've worked as an information designer
           <p>
 I strive to visualise content in a way that is both understandable and visually appealing, to omit the unnecessary and focus on the relevant. Besides working with the usual tools, I enjoy building with D3 or P5 and experiment with generative design.
           </p>
-          <figure className="kg-card kg-image-card kg-width-full">
+          <figure className="kg-width-full">
           <P5Wrapper sketch={sketch02} />
           </figure>
           <p>
@@ -59,15 +59,6 @@ const indexQuery = graphql`
     site {
       siteMetadata {
         title
-      }
-    }
-    benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
       }
     }
   }

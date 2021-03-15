@@ -34,13 +34,13 @@ const Layout = props => {
           </div>
           <div className="site-head-right">
           <ul activeClassName="nav-current" className="nav" role="menu">
-            <li className="nav-home" role="menuitem">
+            <li role="menuitem">
               <Link to={`/`}>WORK</Link>
             </li>
-            <li className="nav-about" role="menuitem">
+            <li role="menuitem">
               <Link to={`/about`}>ABOUT</Link>
             </li>
-            <li className="nav-contact" role="menuitem">
+            <li role="menuitem">
               <Link to={`/contact`}>CONTACT</Link>
             </li>
             </ul>
@@ -54,8 +54,7 @@ const Layout = props => {
 
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        I built this website in {" "}
+      <Link to={`/disclaimer`}>&copy;</Link> {new Date().getFullYear()} by <Link to={`/`}> {title}</Link>. I built this website in {" "}
         <a
           href="https://reactjs.org/"
           target="_blank"

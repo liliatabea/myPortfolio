@@ -26,20 +26,13 @@ const BlogIndex = ({ data }, location) => {
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
-        <header className="page-head">
-        <div  className="post-content-body">Hello. And welcome to my website. I'm specialised in</div>
-          <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h2>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
 
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p>
+        <header className="post-content page-template post-content-body center">
+      <h1>Hello. Nice of you to pop by. My name is {data.site.siteMetadata.name} and I'm an information and graphic designer.</h1>
+          <h2>
+            I offer {data.site.siteMetadata.description}. I also like creative coding.
+          </h2>
+
         </header>
       )}
 
