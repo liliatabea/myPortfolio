@@ -33,15 +33,15 @@ const Layout = props => {
             </Link>
           </div>
           <div className="site-head-right">
-          <ul className="nav" role="menu">
-            <li className="nav-home nav-current" role="menuitem">
-              <Link to={`/`}>Home</Link>
-            </li>
-            <li className="nav-work" role="menuitem">
-              <Link to={`/work`}>Work</Link>
+          <ul activeClassName="nav-current" className="nav" role="menu">
+            <li className="nav-home" role="menuitem">
+              <Link to={`/`}>WORK</Link>
             </li>
             <li className="nav-about" role="menuitem">
-              <Link to={`/about`}>About</Link>
+              <Link to={`/about`}>ABOUT</Link>
+            </li>
+            <li className="nav-contact" role="menuitem">
+              <Link to={`/contact`}>CONTACT</Link>
             </li>
             </ul>
           </div>
@@ -51,6 +51,7 @@ const Layout = props => {
         <div id="swup" className="transition-fade">
           {children}
         </div>
+
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;

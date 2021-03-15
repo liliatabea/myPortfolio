@@ -1,8 +1,9 @@
 ---
 title: All spikes
 date: "2019-05-04"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
+thumbnail: ./charles-deluvio-695732-unsplash__.jpg
 description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
+
 ---
 
 ![Cactus](./charles-deluvio-695757-unsplash.jpg)

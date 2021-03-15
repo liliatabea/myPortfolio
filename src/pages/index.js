@@ -31,6 +31,15 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
+          <h3 id="dynamic-styles">Dynamic styles</h3>
+
+          <p>
+            Don't forget to check out the{" "}
+            <a href="https://docs.ghost.org/integrations/">
+              Ghost Integrations Directory
+            </a>{" "}
+            for more ways to integrate Ghost with your favourite services.
+          </p>
         </header>
       )}
 
@@ -47,6 +56,8 @@ const BlogIndex = ({ data }, location) => {
           )
         })}
       </div>
+
+
 
     </Layout>
   )

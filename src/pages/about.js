@@ -26,7 +26,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Hello. Nice of you to visit drop in. My name is Lilia Rusterholtz and I'm an information and graphic designer.
+            Hello. Nice of you to pop by. My name is Lilia Rusterholtz and I'm an information and graphic designer.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
           <P5Wrapper sketch={sketch01} />
