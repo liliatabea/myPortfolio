@@ -28,11 +28,11 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
 
         <header className="post-content page-template post-content-body center">
-      <h1>Hello. Nice of you to pop by. My name is {data.site.siteMetadata.name} and I'm an information and graphic designer.</h1>
+      <div className="post-content-body">  <h1>Hello. Nice of you to pop by.</h1>
           <h2>
-            I offer {data.site.siteMetadata.description}. I also like creative coding.
+            My name is {data.site.siteMetadata.name} and I'm a designer. I offer {data.site.siteMetadata.description}. I also like creative coding.
           </h2>
-
+          </div>
         </header>
       )}
 

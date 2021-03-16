@@ -1,5 +1,6 @@
 import React from "react"
-import { graphql, StaticQuery } from "gatsby"
+import { graphql, StaticQuery, Link } from "gatsby"
+
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -23,29 +24,34 @@ const AboutPage = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
-      <article className="post-content page-template no-image">
+      <article className="post-content page-template">
         <div className="post-content-body">
-          <h1 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Eyes open
+          <h1>
+            Lead&mdash;and follow
           </h1>
-          <figure className="kg-width-full">
+          <figure className="kg-card kg-embed-card">
           <P5Wrapper sketch={sketch01} />
           </figure>
           <p>
-          I graduated from Basel School of Design with a degree in visual communication. In 2007, I moved to Zürich where I worked as a web and graphic designer and organised the PechaKuchaNights. Early 2011, I had the opportunity to move to Singapore with my family. Surrounded by an inspiring group of researchers and urban designers, I founded my own studio, learned how to code and closely collaborated with my clients, mainly from academia.
+          I graduated from <a href="https://www.fhnw.ch/en/about-fhnw/schools/academy-of-art-and-design/institutes/institute-of-visual-communication" target="_blank" tabindex="1">Basel School of Design</a> with a degree in visual communication. In 2007, I moved to Zürich where I worked as a web and graphic designer and organised the <a href="https://www.pechakucha.com" target="_blank" tabindex="2">PechaKuchaNights.</a> Early 2011, I had the opportunity to move to Singapore with my family. Surrounded by an inspiring group of researchers and urban designers, I founded my own studio, learned how to code and closely collaborated with my clients, mainly from academia.
           </p>
-          <h3 id="dynamic-styles">My focus is on the visual display of information with a soft spot for creative coding</h3>
+          <h3 id="dynamic-styles">
+          My focus is on the visual display of information with a soft spot for creative coding
+          </h3>
           <p>
-After moving back to Switzerland in 2017, I've worked as an information designer for Superdot – visualizing complexity.
+          <br/>After moving back to Switzerland in 2017, I've worked as an information designer for <a href="https://www.superdot.studio" target="_blank" tabindex="3">Superdot – visualizing complexity.</a>
+          </p>
+
+          <p>
+          I strive to visualise content in a way that is both understandable and visually appealing, to omit the unnecessary and focus on the relevant. Besides working with the usual tools, I enjoy building my own with <a href="https://d3js.org" target="_blank" tabindex="4">D3</a> or <a href="https://p5js.org" target="_blank" tabindex="5">P5</a> and experiment with generative design.
           </p>
           <p>
-I strive to visualise content in a way that is both understandable and visually appealing, to omit the unnecessary and focus on the relevant. Besides working with the usual tools, I enjoy building with D3 or P5 and experiment with generative design.
-          </p>
-          <figure className="kg-width-full">
+          Spending quite some time at home recently, I've completed a <a href="https://www.codecademy.com" target="_blank" tabindex="6">codecademy</a> career path in web development and baked a few loaves of sourdough bread.
+          </p><figure className="kg-card kg-embed-card">
           <P5Wrapper sketch={sketch02} />
           </figure>
           <p>
-If you'd like to collaborate, feel free to get in touch.
+          If you'd like to collaborate, feel free to <Link to={`/contact`}>get in touch.</Link>
           </p>
 
         </div>

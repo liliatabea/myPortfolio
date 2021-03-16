@@ -6,7 +6,7 @@ let canvas_dist;
 
   p.setup = function () {
     //p.frameRate(4);
-    width = p.windowWidth;
+    width =  0.8 * p.windowWidth;
     p.createCanvas(width, height);
 
     canvas_dist = p.dist(0, 0, width, height)

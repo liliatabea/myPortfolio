@@ -19,19 +19,18 @@ const DisclaimerPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2>
-            DISCLAIMER
-          </h2>
-          <figure className="kg-card kg-image-card kg-gallery-card">
+          <h4>
+            COPYRIGHT
+          </h4>
+          <figure className="kg-image-card">
             <Img
               fluid={data.disclaimer.childImageSharp.fluid}
-              className="kg-image"
             />
-
-          <figcaption>
+            </figure>
+          <p className="footnotes footnotes-sep">
           Unless otherwise indicated, all materials in this website are copyrighted. No part of this website, either text or images may be used for any purpose, unless explicit authorisation is given. Reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means – electronic, mechanical or otherwise – is strictly prohibited without prior written permission.
-          </figcaption></figure>
-          
+          </p>
+
         </div>
       </article>
     </Layout>

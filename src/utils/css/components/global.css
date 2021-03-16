@@ -335,13 +335,15 @@ blockquote cite a {
     font-weight: normal;
 }
 
-a {
+a, a:visited {
+
     color: color(var(--color-primary) l(-5%));
     text-decoration: none;
     transition: 0.4s ease;
 }
 
 a:hover {
+    color: color(var(--color-base));
     text-decoration: underline;
     transition: 0.2s ease;
 }
@@ -382,7 +384,8 @@ h2 {
 
 h3 {
     margin: 1.5em 0 1em 0;
-    font-size: 3.2rem;
+    font-size: 2.6rem;
+    font-weight: 500;
 }
 @media (max-width: 500px) {
     h3 {
@@ -392,7 +395,9 @@ h3 {
 
 h4 {
     margin: 1.5em 0 1em 0;
-    font-size: 2.6rem;
+    font-size: 1.8rem;
+    font-weight: normal;
+    text-align: center;
 }
 
 h5 {
@@ -403,8 +408,4 @@ h5 {
 h6 {
     margin: 1.5em 0 1em 0;
     font-size: 2.2rem;
-}
-
-.center {
-  text-align: center;
 }
