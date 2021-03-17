@@ -30,7 +30,7 @@ const BlogIndex = ({ data }, location) => {
         <header className="post-content page-template post-content-body center">
       <div className="post-content-body">  <h1>Hello. Nice of you to pop by.</h1>
           <h2>
-            My name is {data.site.siteMetadata.name} and I'm a designer. I offer {data.site.siteMetadata.description}. I also like creative coding.
+            My name is Lilia Rusterholtz and I'm a designer.<br/> I offer {data.site.siteMetadata.description}. I also like creative coding.
           </h2>
           </div>
         </header>

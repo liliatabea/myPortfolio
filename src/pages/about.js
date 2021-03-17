@@ -27,7 +27,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template">
         <div className="post-content-body">
           <h1>
-            Lead&mdash;and follow
+            Just a few lines …
           </h1>
           <figure className="kg-card kg-embed-card">
           <P5Wrapper sketch={sketch01} />
@@ -46,7 +46,7 @@ const AboutPage = ({ data }, location) => {
           I strive to visualise content in a way that is both understandable and visually appealing, to omit the unnecessary and focus on the relevant. Besides working with the usual tools, I enjoy building my own with <a href="https://d3js.org" target="_blank" tabindex="4">D3</a> or <a href="https://p5js.org" target="_blank" tabindex="5">P5</a> and experiment with generative design.
           </p>
           <p>
-          Spending quite some time at home recently, I've completed a <a href="https://www.codecademy.com" target="_blank" tabindex="6">codecademy</a> career path in web development and baked a few loaves of sourdough bread.
+          Spending quite some time at home recently, I've completed a <a href="https://www.codecademy.com" target="_blank" tabindex="6">codecademy</a> career path in web development.
           </p><figure className="kg-card kg-embed-card">
           <P5Wrapper sketch={sketch02} />
           </figure>

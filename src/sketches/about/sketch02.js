@@ -3,30 +3,29 @@ export default function sketch02 (p) {
 let height = 500;
 let width;
 let canvas_dist;
+let gapper = 100;
 
   p.setup = function () {
-    //p.frameRate(4);
     width =  0.8 * p.windowWidth;
     p.createCanvas(width, height);
+    p.background(0);
+    p.fill(0, 10);
+    p.stroke(255);
 
-    canvas_dist = p.dist(0, 0, width, height)
-    p.noStroke();
+    for (let x=-gapper/2; x<width+gapper; x+=gapper)
+      for (let y=-gapper/2; y<height+gapper; y+=gapper)
+        p.ellipse(x, y, gapper/2, gapper/2);
   };
 
 
 
   p.draw = function () {
+    p.stroke(255,80);
 
-    p.background(0, 80);
-    for (let i = 0; i <= width; i += 25) {
-      for (let j = 0; j <= height; j += 25) {
-        //let size = p.dist(p.mouseX, p.mouseY, i, j);
-        let size = 220;
-        size = (size/canvas_dist) * 450;
-        //size = (size) * 450;
-        p.fill(j, i, size, 10 );
-        p.ellipse(i, j, size, size);
-    }
-  }
-};
+    for (let x=-gapper/2; x<2*width; x+=gapper)
+      for (let y=-gapper/2; y<2*height; y+=gapper)
+        p.ellipse(x, y, p.mouseX, p.mouseY);
+        p.fill(0, 10);
+        p.rect(0, 0, width, height);
+      };
 };

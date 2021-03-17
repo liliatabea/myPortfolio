@@ -8,6 +8,9 @@ import SEO from "../components/seo"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
+// for use of P5
+import P5Wrapper from 'react-p5-wrapper';
+import sketch03 from '../sketches/contact/sketch03';
 
 
 const ContactPage = ({ data }, location) => {
@@ -22,13 +25,63 @@ const ContactPage = ({ data }, location) => {
           <h1 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Get in touch
           </h1>
-          <p>
-          Do you have any questions? Would you like to collaborate? I'm happy to hear from you.
-          </p>
-          <form>Form: Name, email, subject, message
-
+          <h2>I'd be happy to hear from you. <br/>Drop me a note or write an email to info@lrvc.ch</h2>
+          <form method="post" action="#">
+            <div className="row gtr-uniform">
+              <div className="col-6 col-12-xsmall">
+                <input
+                  type="text"
+                  name="name"
+                  id="name"
+                  defaultValue
+                  placeholder="Name"
+                  required
+                />
+              </div>
+              <div className="col-6 col-12-xsmall">
+                <input
+                  type="email"
+                  name="e-mail"
+                  id="email"
+                  defaultValue
+                  placeholder="Email"
+                  required
+                />
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <textarea
+                  name="message"
+                  id="message"
+                  placeholder="Enter your message"
+                  rows={6}
+                  defaultValue={""}
+                />
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <ul className="actions">
+                  <li>
+                    <input
+                      type="submit"
+                      defaultValue="Send Message"
+                      className="primary"
+                    />
+                  </li>
+                  <li>
+                    <input type="reset" defaultValue="Reset" />
+                  </li>
+                </ul>
+              </div>
+            </div>
           </form>
-        </div>
+
+
+
+        <figure className="kg-embed-card">
+        <P5Wrapper sketch={sketch03} />
+        </figure>
+    </div>
       </article>
     </Layout>
   )
