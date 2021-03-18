@@ -2,7 +2,6 @@ export default function sketch02 (p) {
 
 let height = 500;
 let width;
-let canvas_dist;
 let gapper = 100;
 
   p.setup = function () {

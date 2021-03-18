@@ -1,9 +1,10 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+
+import ContactForm from "../components/contact-form"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -25,62 +26,13 @@ const ContactPage = ({ data }, location) => {
           <h1 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
             Get in touch
           </h1>
-          <h2>I'd be happy to hear from you. <br/>Drop me a note or write an email to info@lrvc.ch</h2>
-          <form method="post" action="#">
-            <div className="row gtr-uniform">
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="text"
-                  name="name"
-                  id="name"
-                  defaultValue
-                  placeholder="Name"
-                  required
-                />
-              </div>
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="email"
-                  name="e-mail"
-                  id="email"
-                  defaultValue
-                  placeholder="Email"
-                  required
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <textarea
-                  name="message"
-                  id="message"
-                  placeholder="Enter your message"
-                  rows={6}
-                  defaultValue={""}
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <ul className="actions">
-                  <li>
-                    <input
-                      type="submit"
-                      defaultValue="Send Message"
-                      className="primary"
-                    />
-                  </li>
-                  <li>
-                    <input type="reset" defaultValue="Reset" />
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </form>
+          <h2>I'd be happy to hear from you. <br/>Drop me a note or write an email to <a className="headerLink" href="mailto:info@lrvc.ch">info@lrvc.ch</a></h2>
+          <ContactForm></ContactForm>
+          <figure className="kg-embed-card">
+          <P5Wrapper sketch={sketch03} />
+          </figure>
 
 
-
-        <figure className="kg-embed-card">
-        <P5Wrapper sketch={sketch03} />
-        </figure>
     </div>
       </article>
     </Layout>

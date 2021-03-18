@@ -348,6 +348,12 @@ a:hover {
     transition: 0.2s ease;
 }
 
+
+.headerLink, .headerLink:hover, .headerLink:active  {
+  text-decoration: none;
+}
+
+
 h1,
 h2,
 h3,
