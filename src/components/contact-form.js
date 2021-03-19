@@ -1,7 +1,10 @@
 import React from "react";
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
-import{ init } from 'emailjs-com';
+
+
+import emailjs from 'emailjs-com';
+import { init } from 'emailjs-com';
 init("user_0U3PDLeNzRw7xTJ44lJik");
 
 export default class ContactForm extends React.Component {
@@ -24,21 +27,12 @@ export default class ContactForm extends React.Component {
   }
 
   handleSubmit (event) {
-	event.preventDefault();
-  const templateId = 'template_l7ura22';
-  const serviceId = 'service_2703yln'
- alert(`Welcome ${this.state.name}!`);
-	this.sendFeedback(serviceId, templateId, {message_html: this.state.value, from_name: this.state.name, reply_to: this.state.email})
+    event.preventDefault();
+
+      window.location.href = "/contact-submit"
+
   }
 
-  sendFeedback (serviceId, templateId, variables) {
-	window.emailjs.sendForm(serviceId, templateId, variables)
-  		.then(res => {
-    	console.log('Email successfully sent!')
-  	})
-  	// Handle errors here however you like, or use a React error boundary
-  	.catch(err => console.error('Oh well, you failed. Here some thoughts on the error that occured:', err))
-  }
 
   render() {
     return (
