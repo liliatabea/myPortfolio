@@ -1,4 +1,4 @@
-export default function sketch01 (p) {
+export default function sketch03 (p) {
 
 let angnoise, radiusnoise;
 let xnoise, ynoise;

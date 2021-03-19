@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -8,6 +7,9 @@ import SEO from "../components/seo"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
+// for use of P5
+import P5Wrapper from 'react-p5-wrapper';
+import sketch04 from '../sketches/contact/sketch04';
 
 
 const ContactSubmitPage = ({ data }, location) => {
@@ -23,12 +25,13 @@ const ContactSubmitPage = ({ data }, location) => {
             THANK YOU
           </h4>
           <h4>Your form has been sent. I'll get back to you shortly.</h4>
-          <figure className="kg-image-card">
-            <Img
-              fluid={data.disclaimer.childImageSharp.fluid}
-            />
-            </figure>
-        
+          </div>
+          <div className="post-content page-template post-content-body center">
+
+          <figure className="kg-embed-card">
+          <P5Wrapper sketch={sketch04} />
+          </figure>
+
 
         </div>
       </article>
@@ -41,15 +44,6 @@ const indexQuery = graphql`
     site {
       siteMetadata {
         title
-      }
-    }
-    disclaimer: file(
-      relativePath: { eq: "disclaimer.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
       }
     }
   }
