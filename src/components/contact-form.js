@@ -2,103 +2,44 @@ import React from "react";
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
-
 import emailjs from 'emailjs-com';
-import { init } from 'emailjs-com';
-init("user_0U3PDLeNzRw7xTJ44lJik");
 
-export default class ContactForm extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      name: '',
-      email: '',
-      subject: '',
-      message: ''
-      };
+export default function ContactForm() {
 
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
+  function sendEmail(e) {
+    e.preventDefault();
+
+    emailjs.sendForm('contact_service', 'contact_form', e.target, 'user_0U3PDLeNzRw7xTJ44lJik')
+      .then((result) => {
+        window.location.href = "/contact-submit";
+
+      }, (error) => {
+          console.log(error.text);
+      });
   }
 
-  handleChange(event) {
-    this.setState({
-      [event.target.name]: event.target.value  });
-  }
+  return (
+    <form className="contact-form" onSubmit={sendEmail}>
+    <div className="contact-form row gtr-uniform">
+      <input type="hidden" name="contact_number" />
 
-  handleSubmit (event) {
-    event.preventDefault();
+      <div  className="col-6 col-12-xsmall"><input type="text" name="user_name" placeholder='Name' required/> </div>
 
-      window.location.href = "/contact-submit"
+      <div  className="col-6 col-12-xsmall"><input type="email" name="user_email" placeholder='E-mail' required/> </div>
 
-  }
-
-
-  render() {
-    return (
-      <div>
-      <form>
-        <div className="row gtr-uniform">
-        <div className="col-6 col-12-xsmall">
-        <input
-          type="text"
-          id="Name"
-          name="name"
-          placeholder='Name'
-          value={this.state.name}
-          onChange={this.handleChange}
-
-          />
-        </div>
-          <div className="col-6 col-12-xsmall">
-          <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder='E-mail'
-              value={this.state.email}
-              onChange={this.handleChange}
-
-            />
-          </div>
-          {/* Break */}
-          <div className="col-12">
-            <input
-            type="text"
-            name="subject"
-              id="subject"
-              placeholder="Subject"
-              rows={1}
-value={this.state.subject}
-              onChange={this.handleChange}
-
-            />
-          </div>
-          {/* Break */}
-          <div className="col-12">
-            <textarea
-              name="message"
-              id="message"
-              placeholder="Enter your message"
-              rows={6}
-              value={this.state.message}
-              onChange={this.handleChange}
-
-            />
-          </div>
-          {/* Break */}
-          <div className="col-12">
-            <ul className="actions">
-              <li>
-                <button type="submit" value="Submit" className="primary"  onClick={this.handleSubmit}>submit</button>
-              </li>
-
-            </ul>
-          </div>
-        </div>
-      </form>
-
+      <div  className="col-12">
+      <input type="text" name="subject" placeholder='Subject'/>
       </div>
-    );
-  }
+
+      <div  className="col-12">
+      <textarea name="message" placeholder='Enter your message' required/>
+      </div>
+
+      <div  className="col-12">
+      <input type="submit" value="Send" className="primary"/>
+      </div>
+
+    </div>
+    </form>
+  );
 }

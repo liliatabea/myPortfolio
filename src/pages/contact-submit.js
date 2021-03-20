@@ -24,7 +24,7 @@ const ContactSubmitPage = ({ data }, location) => {
           <h4>
             THANK YOU
           </h4>
-          <h4>Your form has been sent. I'll get back to you shortly.</h4>
+          <h4>Your message has been sent. I'll get back to you shortly.</h4>
           </div>
           <div className="post-content page-template post-content-body center">
 

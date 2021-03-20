@@ -19,13 +19,24 @@ let gapper = 100;
 
 
   p.draw = function () {
-    p.stroke(200,80);
+    //p.stroke(200,80);
     p.noFill();
-    for (let x=-gapper*10; x<2*width; x+=gapper)
-      for (let y=-gapper*10; y<2*height; y+=gapper)
-        p.ellipse(x, y, p.mouseX, p.mouseY);
-        p.fill(0, 20);
-        p.noStroke();
-        p.rect(0, 0, width, height);
+    for (let x=-gapper*10; x<2*width; x+=gapper) {
+      for (let y=-gapper*10; y<2*height; y+=gapper) {
+      let colorX = p.map(x, 0, width, 200, 50);
+      let colorY = p.map(y, 0, height, 50, 200);
+      let rad1 = p.map(p.mouseX, 0, 2000, 50, 800);
+      let rad2 = p.map(p.mouseY, 0, 2000, 50, 800);
+      p.stroke(colorX, 200, colorY);
+      p.ellipse(x, y, rad1, rad2);
+
+
+
+
+}}
+p.fill(0, 20);
+p.noStroke();
+p.rect(0, 0, width, height);
+
       };
 };
