@@ -7,73 +7,48 @@ client: Gottlieber Spezialitäten AG
 published: since 2014
 ---
 
-Two research institutes – [Future Cities Laboratory](https://fcl.ethz.ch/) (ETH) and [City Form Lab](http://cityform.mit.edu/) (SUTD) – presented their research findings on urban design at the URA Gallery in Singapore. I designed the visual identity for the exhibition, including the wayfinding system, flyers, invitation card, book covers and table labels.
+In 2014, I started working for [Gottlieber Spezialitäten AG](https://www.gottlieber.ch/en/), a traditional Swiss confectionery founded in 1928 which has been pleasing chocolate lovers ever since with their unique Hüppen, a rolled wafer with delicious creamy filling.
 
-The look and feel is clean and unobtrusive, with a lot of white space, black type and natural materials.
+I have been responsible for the design of about 100 products, including the redesign of the signature <a href="#traditionLine">Tradition Line</a>, many decorative tin boxes and the upmarket <a href="#premiumLine">Premium Line.</a>
 
-As a reference to the urban design context of the exhibition space – the building stands at a 38° angle to north – I used the same rotation for the text of the invitation card.
-
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
-
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tee.jpg)
-
-</div>
-
+It's been very rewarding to collaborate with a client over such a long time. While I grew from novice to packaging design expert, I could witness a comparatively small business develop into a company with six cafés and salespoints in Europe and Asia.
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_flyer_zoom.jpg)
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_shop.jpg)
 
 </div>
 
+<div id="traditionLine" class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-The invitation card was stamped in glossy black on off-white cardboard.
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tradition.jpg)
+
+</div>
+
+In 2020, the <strong>Tradition Line</strong> was completely revamped. While some elements (light yellow background, red ribbon) remained, a lot of details were adjusted and modernised. The logo is embossed in gold foil.
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_wayfinding.jpg)
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tradition_Fotos.jpg)
 
 </div>
+
 
 <div class="kg-card kg-image-card kg-width-full kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail2.jpg)
-
-</div>
-
-<div class="kg-nopointer">
-
-![Re:Imagining Cities](./ReImaginingCities_booth_v3.jpg)
-
-</div>
-
-<div class="kg-nopointer">
-
-![Re:Imagining Cities](./ReImaginingCities_booth_flyers.jpg)
-
-</div>
-
-<div class="kg-nopointer">
-
-![Re:Imagining Cities](./ReImaginingCities_booth_v2.jpg)
-
-</div>
-
-<div class="kg-nopointer">
-
-![Re:Imagining Cities](./ReImaginingCities_detail1.jpg)
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Diverse.jpg)
 
 </div>
 
 
-<div class="kg-nopointer">
+<div id="premiumLine">
 
-![Re:Imagining Cities](./ReImaginingCities_detail3.jpg)
+For the 2021 <strong>Premium Line</strong> relaunch, I designed the base package plus four different sleeves. The color-coded background reflects the assortments. The border and little Swiss cross are printed in gold, and the background pattern varnished with a transparent gloss.
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail4.jpg)
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_PremiumSleeves.jpg)
 
 </div>

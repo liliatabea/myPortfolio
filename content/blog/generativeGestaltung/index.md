@@ -1,10 +1,10 @@
 ---
 title: Generative Design
-subtitle: hallo
-date: "2019-05-06"
+date: "2010-06-21"
 thumbnail: ./GenerativeGestaltung11.jpg
 description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
-
+client: Gottlieber Spezialitäten AG
+published: since 2014
 ---
 
 ![Generative Gestaltung](./GenerativeGestaltung01.jpg)

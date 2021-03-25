@@ -1,7 +1,7 @@
 ---
-title: Innofield
-date: "2009-06-21"
-thumbnail: ./Innofield_01.jpg
+title: Swiss Scale
+date: "2003-06-21"
+thumbnail: ./Eiermarkt_01.jpg
 description: Packaging design for exclusive Swiss confectionery.
 client: Gottlieber Spezialitäten AG
 published: since 2014

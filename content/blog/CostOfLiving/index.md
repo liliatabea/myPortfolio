@@ -1,6 +1,6 @@
 ---
-title: Test
-date: "2007-06-21"
+title: Cost of Living
+date: "2012-06-21"
 thumbnail: ./GottlieberSpezialitaeten_Header.jpg
 description: Packaging design for exclusive Swiss confectionery.
 client: Gottlieber Spezialitäten AG

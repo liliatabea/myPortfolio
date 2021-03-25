@@ -27,6 +27,7 @@ const ContactPage = ({ data }, location) => {
             Get in touch
           </h1>
           <h2>I'd be happy to hear from you. <br/>Drop me a note or write an email to <a className="headerLink" href="mailto:info@lrvc.ch">info@lrvc.ch</a></h2>
+          <p className="center">or linger here for some time and watch the flower draw …</p>
           <ContactForm></ContactForm>
           <figure className="kg-embed-card">
           <P5Wrapper sketch={sketch03} />
