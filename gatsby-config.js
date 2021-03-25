@@ -35,10 +35,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1360,
+              maxWidth: 4000,
               withWebp: true,
               showCaptions: true,
-              quality: 75,
+              quality: 80,
               wrapperStyle: `margin: 7vw 0;`,
             },
           },
@@ -94,7 +94,8 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `${__dirname}/content/assets/icon.png`,
+
       },
     },
     `gatsby-plugin-netlify`,

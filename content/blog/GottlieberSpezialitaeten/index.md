@@ -1,10 +1,10 @@
 ---
-title: RE:Imagining Cities
-date: "2011-06-21"
-thumbnail: ./ReImaginingCities_booth_v1.jpg
-description: Visual identity for exhibition on urban design research.
-client: ETH Singapore SEC Ltd
-published: "2014"
+title: Gottlieber Spezialitäten
+date: "2007-06-21"
+thumbnail: ./GottlieberSpezialitaeten_Header.jpg
+description: Packaging design for exclusive Swiss confectionery.
+client: Gottlieber Spezialitäten AG
+published: since 2014
 ---
 
 Two research institutes – [Future Cities Laboratory](https://fcl.ethz.ch/) (ETH) and [City Form Lab](http://cityform.mit.edu/) (SUTD) – presented their research findings on urban design at the URA Gallery in Singapore. I designed the visual identity for the exhibition, including the wayfinding system, flyers, invitation card, book covers and table labels.
@@ -13,13 +13,9 @@ The look and feel is clean and unobtrusive, with a lot of white space, black typ
 
 As a reference to the urban design context of the exhibition space – the building stands at a 38° angle to north – I used the same rotation for the text of the invitation card.
 
-<p class="footnotes">
-Photos by <a href="http://www.carlinateteris.com/">Carlina Teteris</a>
-</p>
+<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
-
-![Re:Imagining Cities](./ReImaginingCities_flyer.jpg)
+![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tee.jpg)
 
 </div>
 

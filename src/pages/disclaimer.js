@@ -48,7 +48,7 @@ const indexQuery = graphql`
       relativePath: { eq: "disclaimer.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 3000) {
           ...GatsbyImageSharpFluid
         }
       }

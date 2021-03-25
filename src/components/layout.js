@@ -29,7 +29,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-              <img src="logo.png" alt="Logo"/>
+              <img src="logo.png" alt="°"/>
             </Link>
           </div>
           <div className="site-head-right">
