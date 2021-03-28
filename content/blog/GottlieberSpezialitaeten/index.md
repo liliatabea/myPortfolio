@@ -34,7 +34,7 @@ In 2020, the <strong>Tradition Line</strong> was completely revamped. While some
 </div>
 
 
-<div class="kg-card kg-image-card kg-width-full kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
 ![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Diverse.jpg)
 

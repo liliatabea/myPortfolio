@@ -1,6 +1,6 @@
 ---
 title: FCL Christmas Card
-date: "2002-06-21"
+date: "2012-06-21"
 thumbnail: ./Eiermarkt_01.jpg
 description: Packaging design for exclusive Swiss confectionery.
 client: Gottlieber Spezialitäten AG
