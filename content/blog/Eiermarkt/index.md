@@ -2,7 +2,7 @@
 title: Swiss Egg Market
 date: "2008-06-21"
 thumbnail: ./Eiermarkt_header.jpg
-description: Isometric Infographic for the Federal Office for Agriculture FOAG
+description: Isometric infographics for the Federal Office for Agriculture FOAG  – a project created with the lovely folks from superdot.studio.
 client: Swiss Federal Office for Agriculture FOAG
 published: "2017"
 ---
@@ -13,44 +13,45 @@ We were given a massive load of data to fiddle with and were relatively free abo
 
 For the look and feel, we chose the isometric view as this allowed us to accurately display volumes and sizes in an understandable and attractive way.
 
-The poster was first published in 2017, and updated in the following years. It is available in the three national languages: German, French and Italian.
-
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
 ![Eiermarkt](./Eiermarkt_Haltungsformen_de.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Vorleistungen_de.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-nopointer">
-
-![Eiermarkt](./Eiermarkt_Produktion_de.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-nopointer">
-
-![Eiermarkt](./Eiermarkt_Handel_de.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-nopointer">
-
-![Eiermarkt](./Eiermarkt_Konsum_de.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
 ![Eiermarkt](./Eiermarkt_Legebetriebe_de.jpg)
 
 </div>
 
+
+<div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
+
+![Eiermarkt](./Eiermarkt_Vorleistungen_de.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
+
+![Eiermarkt](./Eiermarkt_Produktion_de.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
+
+![Eiermarkt](./Eiermarkt_Handel_de.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
+
+![Eiermarkt](./Eiermarkt_Konsum_de.jpg)
+
+</div>
+
+The poster was first published in 2017, and updated in the following years. It is available in the three national languages: German, French and Italian.
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer kg-image-shadow">
 

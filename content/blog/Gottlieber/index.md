@@ -1,5 +1,5 @@
 ---
-title: Gottlieber Spezialitäten
+title: Gottlieber
 date: "2007-06-21"
 thumbnail: ./GottlieberSpezialitaeten_Header.jpg
 description: Packaging design for exclusive Swiss confectionery.
