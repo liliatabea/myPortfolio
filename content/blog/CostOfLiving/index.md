@@ -11,7 +11,7 @@ Working at [superdot](https://www.superdot.studio/), you often get the chance to
 
 <div class="kg-nopointer">
 
-![CostOfLiving](./CostOfLiving_milkbasket.jpg)
+![CostOfLiving milk basket](./CostOfLiving_milkbasket.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ First, we had to make sense of the data. [Tableau](https://www.tableau.com/) is 
 
 <div class="kg-nopointer  kg-image-shadow">
 
-![CostOfLiving](./CostOfLiving_tableau1.png)
+![CostOfLiving tableau](./CostOfLiving_tableau1.png)
 
 </div>
 
@@ -29,7 +29,7 @@ Outliers, such as the price for education in Luxembourg, are revealed.
 
 <div class="kg-nopointer  kg-image-shadow">
 
-![CostOfLiving](./CostOfLiving_tableau2.png)
+![CostOfLiving tableau](./CostOfLiving_tableau2.png)
 
 </div>
 
@@ -37,7 +37,7 @@ Tendencies, like a wider variation in health than transport, become visible.
 
 <div class="kg-nopointer  kg-image-shadow">
 
-![CostOfLiving](./CostOfLiving_tableau3.png)
+![CostOfLiving tableau](./CostOfLiving_tableau3.png)
 
 </div>
 
@@ -45,7 +45,7 @@ The split between north and south, east and west becomes obvious on a map, as we
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![CostOfLiving](./CostOfLiving_graphs.jpg)
+![CostOfLiving graphs](./CostOfLiving_graphs.jpg)
 
 </div>
 
@@ -53,7 +53,7 @@ After many sketches with pen and paper, a new diagram type emerged: a hybrid of 
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![CostOfLiving](./CostOfLiving_output.jpg)
+![CostOfLiving raw D3 output](./CostOfLiving_output.jpg)
 
 </div>
 
@@ -61,6 +61,6 @@ With a slightly unusual but fruitful workflow, I generated the SVG structure of 
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer kg-image-shadow">
 
-![CostOfLiving](./CostOfLiving_Final.jpg)
+![CostOfLiving final poster](./CostOfLiving_Final.jpg)
 
 </div>

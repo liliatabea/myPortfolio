@@ -15,13 +15,13 @@ It's been very rewarding to collaborate with a client over such a long time. Whi
 
 <div class="kg-nopointer">
 
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_shop.jpg)
+![Gottlieber shop](./GottlieberSpezialitaeten_shop.jpg)
 
 </div>
 
 <div id="traditionLine" class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tradition.jpg)
+![Gottlieber tradition line](./GottlieberSpezialitaeten_Tradition.jpg)
 
 </div>
 
@@ -29,14 +29,14 @@ In 2020, the <strong>Tradition Line</strong> was completely revamped. While some
 
 <div class="kg-nopointer">
 
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Tradition_Fotos.jpg)
+![Gottlieber tradition line](./GottlieberSpezialitaeten_Tradition_Fotos.jpg)
 
 </div>
 
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_Diverse.jpg)
+![Gottlieber collection](./GottlieberSpezialitaeten_Diverse.jpg)
 
 </div>
 
@@ -49,6 +49,6 @@ For the 2021 <strong>Premium Line</strong> relaunch, I designed the base package
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![GottlieberSpezialitaeten](./GottlieberSpezialitaeten_PremiumSleeves.jpg)
+![Gottlieber premium line](./GottlieberSpezialitaeten_PremiumSleeves.jpg)
 
 </div>

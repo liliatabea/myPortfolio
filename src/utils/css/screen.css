@@ -399,7 +399,7 @@ body {
     bottom: 0;
     left: 0;
     color: #fff;
-    background: rgba(0,0,0,0.4);
+    background: rgba(248,248,248,0.4);
     opacity: 1;
     transition: opacity 0.5s cubic-bezier(.33,0,.2,1);
 }
@@ -427,6 +427,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.2rem;
     transition: all 0.3s cubic-bezier(.33,0,.2,1);
+    color: rgba(0,0,0,1);
 }
 
 /* Posts without images */

@@ -15,39 +15,39 @@ For the look and feel, we chose the isometric view as this allowed us to accurat
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Haltungsformen_de.jpg)
+![Egg market production methods](./Eiermarkt_Haltungsformen_de.jpg)
 
 </div>
 
 
 <div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Legebetriebe_de.jpg)
+![Egg market breeding farms](./Eiermarkt_Legebetriebe_de.jpg)
 
 </div>
 
 
 <div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Vorleistungen_de.jpg)
+![Egg market chicken and food](./Eiermarkt_Vorleistungen_de.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Produktion_de.jpg)
+![Egg market production](./Eiermarkt_Produktion_de.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Handel_de.jpg)
+![Egg market trade](./Eiermarkt_Handel_de.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card  kg-width-wide kg-nopointer">
 
-![Eiermarkt](./Eiermarkt_Konsum_de.jpg)
+![Egg market consumption](./Eiermarkt_Konsum_de.jpg)
 
 </div>
 
@@ -55,6 +55,6 @@ The poster was first published in 2017, and updated in the following years. It i
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer kg-image-shadow">
 
-![Eiermarkt](./Eiermarkt_poster.jpg)
+![Egg market final poster](./Eiermarkt_poster.jpg)
 
 </div>

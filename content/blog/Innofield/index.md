@@ -13,7 +13,7 @@ The isometric visualization is structured in four parts, highlighting the four m
 
 <div class="kg-card kg-image-card kg-nopointer">
 
-![Innofield](./Innofield_dark_all.jpg)
+![Innofield power cord flow](./Innofield_dark_all.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ Like a power cord, a red thread leads from one topic to the next.
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Innofield](./Innofield_dark_to_light.gif)
+![Innofield dark to light](./Innofield_dark_to_light.gif)
 
 </div>
 
@@ -31,7 +31,7 @@ Users can switch from dark to light theme.
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Innofield](./Innofield_light_P3.gif)
+![Innofield latency](./Innofield_P3.gif)
 
 
 </div>
@@ -40,6 +40,6 @@ Subtle, playful animations allow more details to be accommodated within the illu
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Innofield](./Innofield_dark_P4.gif)
+![Innofield storage](./Innofield_dark_P4.gif)
 
 </div>
