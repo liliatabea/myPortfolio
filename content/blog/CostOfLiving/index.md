@@ -1,7 +1,8 @@
 ---
 title: Cost of Living
-date: "2002-06-21"
+date: "2012-06-21"
 thumbnail: ./CostOfLiving_clipping.jpg
+description__:
 description: Prices and earnings vary dramatically from region to region, even within the European Union. The Harmonized Index of Consumer Prices attempts to make sense of this. The prices of roughly 300,000 products are monitored throughout Europe, to understand the real cost of rice in Bulgaria, shoes in Luxembourg or a taxi ride in Sweden.
 client: Superdot
 published: "2018"
@@ -9,13 +10,15 @@ published: "2018"
 
 Working at [superdot](https://www.superdot.studio/), you often get the chance to dig through interesting datasets. We came across a dauntingly detailed [table](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/erhebungen/icp.assetdetail.12827262.html) based on the [Harmonized Index of Consumer Prices](https://en.wikipedia.org/wiki/Harmonised_Index_of_Consumer_Prices) (HICP). A cool topic for a summer lab project – read the full article on [Medium.](https://medium.com/superdot_studio/a-diagram-type-for-a-niche-data-use-case-56114a5e8abf)
 
+Prices and earnings vary dramatically from region to region, even within the European Union. The Harmonized Index of Consumer Prices attempts to make sense of this. The prices of roughly 300,000 products are monitored throughout Europe, to understand the real cost of rice in Bulgaria, shoes in Luxembourg or a taxi ride in Sweden.
+
 <div class="kg-nopointer">
 
 ![CostOfLiving milk basket](./CostOfLiving_milkbasket.jpg)
 
 </div>
 
-Milk is just an example for the 300,000 products monitored in the HICP basket.
+Milk is just one example for the all products monitored in the HICP basket.
 
 First, we had to make sense of the data. [Tableau](https://www.tableau.com/) is great for rough and ready, explorative data analysis.
 
@@ -41,7 +44,7 @@ Tendencies, like a wider variation in health than transport, become visible.
 
 </div>
 
-The split between north and south, east and west becomes obvious on a map, as well as the change over time.
+The split between north and south, east and west becomes obvious on a map.
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 

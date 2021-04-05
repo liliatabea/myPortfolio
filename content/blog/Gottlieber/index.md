@@ -2,12 +2,13 @@
 title: Gottlieber
 date: "2007-06-21"
 thumbnail: ./GottlieberSpezialitaeten_Header.jpg
+description_alt:
 description: Packaging design for exclusive Swiss confectionery.
 client: Gottlieber Spezialitäten AG
 published: since 2014
 ---
 
-In 2014, I started working for [Gottlieber Spezialitäten AG](https://www.gottlieber.ch/en/), a traditional Swiss confectionery founded in 1928 which has been pleasing chocolate lovers ever since with their unique Hüppen, a rolled wafer with delicious creamy filling.
+In 2014, I started working for [Gottlieber Spezialitäten AG](https://www.gottlieber.ch/en/), an exclusive Swiss confectionery founded in 1928 which has been pleasing chocolate lovers ever since with their unique Hüppen, a rolled wafer with delicious creamy filling.
 
 I have been responsible for the design of about 100 products, including the redesign of the signature <a href="#traditionLine">Tradition Line</a>, many decorative tin boxes and the upmarket <a href="#premiumLine">Premium Line.</a>
 
@@ -15,7 +16,7 @@ It's been very rewarding to collaborate with a client over such a long time. Whi
 
 <div class="kg-nopointer">
 
-![Gottlieber shop](./GottlieberSpezialitaeten_shop.jpg)
+![Gottlieber shop](./GottlieberSpezialitaeten_Shop.jpg)
 
 </div>
 

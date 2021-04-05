@@ -1,7 +1,8 @@
 ---
 title: Lonza icon system
-date: "2004-06-21"
+date: "2002-06-21"
 thumbnail: ./LONZA_iconcollection.png
+description_alt:
 description: Modular icon system for global brand Lonza Pharma & Biotech – a project created with the lovely folks from superdot.studio.
 client: Lonza pharma & biotech
 published: "2019"
@@ -17,7 +18,7 @@ Lonza is a global leader in life sciences with about 15,500 employees in 120 loc
 
 </div>
 
-We elaborated a geometrical system based on the Lonza logo, with clear definitions for every angle, corner, line and point. With these guidelines, the Lonza graphic department can also add further icons to their catalogue.
+We elaborated a geometrical system based on the Lonza logo, with clear definitions for every angle, corner, line and point.
 
 <div class="kg-nopointer">
 
@@ -37,13 +38,15 @@ We elaborated a geometrical system based on the Lonza logo, with clear definitio
 
 </div>
 
+With these guidelines, the Lonza graphic department can also add further icons to their catalogue.
+
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
 ![Lonza sketching](./LONZA_sketches.jpg)
 
 </div>
 
-Each icon is pixel perfect, working on a scale as small as 48 × 48 pixels. An additional layer can be added to convey more complex relationships.
+Each icon is pixel perfect, working on a scale as small as 48 × 48 pixels.
 
 <div class="kg-nopointer">
 
@@ -51,7 +54,7 @@ Each icon is pixel perfect, working on a scale as small as 48 × 48 pixels. An a
 
 </div>
 
-Three categories of icons were identified: abstract, concrete and microscopic. Since the change of scale from concrete to microscopic is visually challenging, we introduced the dotted circle as a metaphor for the view through a microscope.
+There is the option to add a 24 × 24 pixel layer icon to the bottom right. Like so, icons can convey more complex relationships.
 
 <div class="kg-nopointer">
 
@@ -59,11 +62,15 @@ Three categories of icons were identified: abstract, concrete and microscopic. S
 
 </div>
 
+Three categories of icons were identified: concrete, abstract and microscopic.
+
 <div class="kg-nopointer">
 
 ![Lonza abstract examples](./LONZA_abstract.png)
 
 </div>
+
+Since the change of scale from concrete to microscopic is visually challenging, we introduced the dotted circle as a metaphor for the view through a microscope.
 
 <div class="kg-nopointer">
 

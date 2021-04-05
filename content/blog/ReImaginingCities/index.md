@@ -2,6 +2,7 @@
 title: RE:Imagining Cities
 date: "2011-06-21"
 thumbnail: ./ReImaginingCities_booth_v1.jpg
+description_alt:
 description: Visual identity for exhibition on urban design research.
 client: ETH Singapore SEC Ltd
 published: "2014"

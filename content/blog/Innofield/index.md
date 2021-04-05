@@ -2,6 +2,7 @@
 title: Innofield
 date: "2009-06-21"
 thumbnail: ./Innofield_dark_header.jpg
+description_alt:
 description: Isometric infographics for storytelling microsite – a project created with the lovely folks from superdot.studio.
 client: Innofield
 published: "2018"
@@ -9,7 +10,7 @@ published: "2018"
 
 Innofield (today [flow.swiss](https://flow.swiss/)) offers premium cloud services and Swiss-based, enterprise-class infrastructure as a service. They turned to [superdot](https://www.superdot.studio/) to visualize what their product is all about and make it understandable to a wider audience.
 
-The isometric visualization is structured in four parts, highlighting the four main features of the product.
+In teamwork, we created a storytelling microsite with isometric visualizations. The site is structured in four parts, highlighting the four main features of the product.
 
 <div class="kg-card kg-image-card kg-nopointer">
 
