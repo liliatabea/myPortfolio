@@ -399,7 +399,7 @@ body {
     bottom: 0;
     left: 0;
     color: #fff;
-    background: rgba(248,248,248,0.4);
+    background: rgba(248,248,248,0.6);
     opacity: 1;
     transition: opacity 0.5s cubic-bezier(.33,0,.2,1);
 }
@@ -430,6 +430,24 @@ body {
     color: rgba(0,0,0,1);
 }
 
+@media (max-width: 700px) {
+  .post-card-title {
+    font-size: 2.2rem;
+    text-shadow: 0 0 4px #000, 0 0 2px #000, 0 0 1px #000;
+    color: rgba(248,248,248,1);
+    width: 90%;
+    display: inline;
+  }
+  .post-card-content {
+    align-items: flex;
+    margin: 8vw 0 28vw 0;
+    background: none;
+    opacity: 1;
+
+    }
+
+
+}
 /* Posts without images */
 .post-card.no-image:before {
     display: block;
@@ -487,7 +505,7 @@ body {
 }
 
 .post-content-title {
-    margin: 0 0 3vw;
+    margin: 0 0 1vw;
     color: var(--color-base);
     text-align: left;
     font-size: 3.6rem;

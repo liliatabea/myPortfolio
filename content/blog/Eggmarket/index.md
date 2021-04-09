@@ -2,7 +2,6 @@
 title: Swiss Egg Market
 date: "2008-06-21"
 thumbnail: ./EggMarket_header.jpg
-description_alt:
 description: Isometric infographics for the Federal Office for Agriculture FOAG  – a project created with the lovely folks from superdot.studio.
 client: Swiss Federal Office for Agriculture FOAG
 published: "2017"

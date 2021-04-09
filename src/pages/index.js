@@ -73,7 +73,6 @@ const indexQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            description
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 2500) {

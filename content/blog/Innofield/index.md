@@ -2,7 +2,6 @@
 title: Innofield
 date: "2009-06-21"
 thumbnail: ./Innofield_dark_header.jpg
-description_alt:
 description: Isometric infographics for storytelling microsite – a project created with the lovely folks from superdot.studio.
 client: Innofield
 published: "2018"

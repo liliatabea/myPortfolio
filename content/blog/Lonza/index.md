@@ -2,7 +2,6 @@
 title: Lonza icon system
 date: "2002-06-21"
 thumbnail: ./LONZA_iconcollection.png
-description_alt:
 description: Modular icon system for global brand Lonza Pharma & Biotech – a project created with the lovely folks from superdot.studio.
 client: Lonza pharma & biotech
 published: "2019"

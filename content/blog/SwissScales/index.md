@@ -1,8 +1,7 @@
 ---
-title: Swiss Positions + Swiss Scales
+title: Swiss Scales Seoul
 date: "2003-06-21"
 thumbnail: ./SwissScales_01.jpg
-description_alt:
 description: Exhibition at the Korea Foundation Cultural Centre in Seoul, South Korea.
 client: ETH Singapore SEC Ltd
 published: "2013"

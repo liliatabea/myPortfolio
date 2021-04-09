@@ -2,7 +2,6 @@
 title: Cost of Living
 date: "2012-06-21"
 thumbnail: ./CostOfLiving_clipping.jpg
-description__:
 description: Prices and earnings vary dramatically from region to region, even within the European Union. The Harmonized Index of Consumer Prices attempts to make sense of this. The prices of roughly 300,000 products are monitored throughout Europe, to understand the real cost of rice in Bulgaria, shoes in Luxembourg or a taxi ride in Sweden.
 client: Superdot
 published: "2018"

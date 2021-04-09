@@ -2,7 +2,6 @@
 title: RE:Imagining Cities
 date: "2011-06-21"
 thumbnail: ./ReImaginingCities_booth_v1.jpg
-description_alt:
 description: Visual identity for exhibition on urban design research.
 client: ETH Singapore SEC Ltd
 published: "2014"
@@ -20,14 +19,14 @@ Photos by <a href="http://www.carlinateteris.com/">Carlina Teteris</a>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_flyer.jpg)
+![Re:Imagining Cities flyer](./ReImaginingCities_flyer.jpg)
 
 </div>
 
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_flyer_zoom.jpg)
+![Re:Imagining Cities flyer foto](./ReImaginingCities_flyer_zoom.jpg)
 
 </div>
 
@@ -36,49 +35,49 @@ The invitation card was stamped in glossy black on off-white cardboard.
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_wayfinding.jpg)
+![Re:Imagining Cities wayfinding](./ReImaginingCities_wayfinding.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-full kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail2.jpg)
+![Re:Imagining Cities postcards and label](./ReImaginingCities_detail2.jpg)
 
 </div>
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_booth_v3.jpg)
+![Re:Imagining Cities booth](./ReImaginingCities_booth_v3.jpg)
 
 </div>
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_booth_flyers.jpg)
+![Re:Imagining Cities flyers arranged in booth](./ReImaginingCities_booth_flyers.jpg)
 
 </div>
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_booth_v2.jpg)
+![Re:Imagining Cities booth Kees](./ReImaginingCities_booth_v2.jpg)
 
 </div>
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail1.jpg)
+![Re:Imagining Cities booth with book](./ReImaginingCities_detail1.jpg)
 
 </div>
 
 
 <div class="kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail3.jpg)
+![Re:Imagining Cities infoflyer arranged in booth](./ReImaginingCities_detail3.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Re:Imagining Cities](./ReImaginingCities_detail4.jpg)
+![Re:Imagining Cities backlanes book and label](./ReImaginingCities_detail4.jpg)
 
 </div>

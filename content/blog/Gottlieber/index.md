@@ -2,7 +2,6 @@
 title: Gottlieber
 date: "2007-06-21"
 thumbnail: ./GottlieberSpezialitaeten_Header.jpg
-description_alt:
 description: Packaging design for exclusive Swiss confectionery.
 client: Gottlieber Spezialitäten AG
 published: since 2014

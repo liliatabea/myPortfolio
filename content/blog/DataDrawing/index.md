@@ -2,7 +2,6 @@
 title: Drawing with Data
 date: "2010-06-21"
 thumbnail: ./DataDrawing_newsletter.jpg
-description_alt:
 description: Season's greetings card reflecting population size and density on a world map using unique snowflakes coded in Javascript.
 Client: ETH Singapore SEC Ltd
 Published: 2015 and 2016
