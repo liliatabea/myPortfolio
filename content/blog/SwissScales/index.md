@@ -1,6 +1,6 @@
 ---
 title: Swiss Scales Seoul
-date: "2003-06-21"
+date: "2031-06-21"
 thumbnail: ./SwissScales_01.jpg
 description: Exhibition at the Korea Foundation Cultural Centre in Seoul, South Korea.
 client: ETH Singapore SEC Ltd

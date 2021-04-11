@@ -1,6 +1,6 @@
 ---
 title: Association Bethlehem University
-date: "2009-07-21"
+date: "2009-06-21"
 thumbnail: ./ABU_header.jpg
 description: New identity for NGO.
 client: Association Bethlehem University

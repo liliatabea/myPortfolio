@@ -1,6 +1,6 @@
 ---
 title: Future Cities Magazine
-date: "2002-06-21"
+date: "2004-06-21"
 thumbnail: ./FCM_cover.jpg
 description: Design of a magazine that showcases research, edited for the general public.
 client: ETH Singapore SEC Ltd
