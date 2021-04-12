@@ -1,7 +1,7 @@
 ---
-title: Generative Design
+title: Written Images
 date: "2021-06-21"
-thumbnail: ./GenerativeDesign_cover.jpg
+thumbnail: ./WrittenImages_cover.jpg
 description: Generative Design – using code as a tool.
 client: Self-initiated
 published: since 2011
@@ -11,7 +11,7 @@ In 2011, I had the opportunity to move to Singapore with my family. Surrounded b
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Birthday Card](./GenerativeDesign_BirthdayCard_1.jpg)
+![Written Images Birthday Card](./WrittenImages_BirthdayCard_1.jpg)
 
 </div>
 
@@ -19,27 +19,27 @@ I try to use code as a tool, just as I use pen and paper or Adobe Creative Suite
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Wedding Card 1](./GenerativeDesign_WeddingCard1.jpg)
+![Written Images Wedding Card 1](./WrittenImages_WeddingCard1.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Wedding Card 2](./GenerativeDesign_WeddingCard2.jpg)
+![Written Images Wedding Card 2](./WrittenImages_WeddingCard2.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Wedding Card 3](./GenerativeDesign_WeddingCard3.jpg)
+![Written Images Wedding Card 3](./WrittenImages_WeddingCard3.jpg)
 
 </div>
 
-Generative Design is very powerful when it comes to serialized design. For the cards below, I started out with the code from the book Generative Design (generative-gestaltung.de) and adapted it so that I only need to adjust a few parameters to create new wedding cards and birthday invitations.
+Generative Design is very powerful when it comes to serialized design. For the cards shown here, I started out with code from the book [Generative Design](http://generative-gestaltung.de) and adapted it so that I only need to adjust a few parameters to create new wedding cards and birthday invitations.
 
 <div class="kg-card kg-image-card  kg-width-wide kg-image-shadow kg-nopointer">
 
-![Generative Design Book](./GenerativeDesign_book.jpg)
+![Written Images Book](./WrittenImages_book.jpg)
 
 </div>
 
@@ -47,25 +47,25 @@ As a co-organiser of an annual street fair, and the person in charge of the PR d
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Flyer 1](./GenerativeDesign_StreetFairFlyer_3.jpg)
+![Written Images Street Fair Flyer 1](./WrittenImages_StreetFairFlyer_3.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Poster 1](./GenerativeDesign_StreetFairPoster_3.jpg)
+![Written Images Street Fair Poster 1](./WrittenImages_StreetFairPoster_3.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Flyer 2](./GenerativeDesign_StreetFairFlyer_2.jpg)
+![Written Images Street Fair Flyer 2](./WrittenImages_StreetFairFlyer_2.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Poster 2](./GenerativeDesign_StreetFairPoster_2.jpg)
+![Written Images Street Fair Poster 2](./WrittenImages_StreetFairPoster_2.jpg)
 
 </div>
 
@@ -73,18 +73,18 @@ I created an icon-based font that I use to render the posters, and paired it wit
 
 <div class="kg-card kg-image-card kg-width-wide kg-nopointer">
 
-![Generative Design Street Fair Comparison](./GenerativeDesign_StreetFair_Compi.jpg)
+![Written Images Street Fair Comparison](./WrittenImages_StreetFair_Compi.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Flyer 3](./GenerativeDesign_StreetFairFlyer_1.jpg)
+![Written Images Street Fair Flyer 3](./WrittenImages_StreetFairFlyer_1.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
-![Generative Design Street Fair Poster 3](./GenerativeDesign_StreetFairPoster_1.jpg)
+![Written Images Street Fair Poster 3](./WrittenImages_StreetFairPoster_1.jpg)
 
 </div>

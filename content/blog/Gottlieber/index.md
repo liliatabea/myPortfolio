@@ -25,7 +25,7 @@ It's been very rewarding to collaborate with a client over such a long time. Whi
 
 </div>
 
-In 2020, the <strong>Tradition Line</strong> was completely revamped. While some elements (light yellow background, red ribbon) remained, a lot of details were adjusted and modernised. The logo is embossed in gold foil.
+In 2020, the Tradition Line was completely revamped. While some elements (light yellow background, red ribbon) remained, a lot of details were adjusted and modernised. The logo is embossed in gold foil.
 
 <div class="kg-nopointer">
 
@@ -43,7 +43,7 @@ In 2020, the <strong>Tradition Line</strong> was completely revamped. While some
 
 <div id="premiumLine">
 
-For the 2021 <strong>Premium Line</strong> relaunch, I designed the base package plus four different sleeves. The color-coded background reflects the assortments. The border and little Swiss cross are printed in gold, and the background pattern varnished with a transparent gloss.
+For the 2021 Premium Line relaunch, I designed the base package plus four different sleeves. The color-coded background reflects the assortments. The border and little Swiss cross are printed in gold, and the background pattern varnished with a transparent gloss.
 
 </div>
 

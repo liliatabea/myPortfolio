@@ -9,7 +9,7 @@ published: "2017"
 
 ABU (Association Bethlehem University) is a non-governmental organization that has been supporting Bethlehem University since 1976 to provide young people in Palestine with a high-quality education in a peaceful environment.
 
-I designed the new identity as well as some print products for fundraising.
+I was approached by the managing director, Erika Burri, to design the new identity as well as some print products for fundraising. It was a great opportunity to be involved in the project from the very start. Working closely with Erika, who was responsible for writing the content, I was able to co-conceptualize the products so that the content fit well with the design.
 
 <div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
 
