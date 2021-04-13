@@ -1,5 +1,15 @@
-export default function sketch03 (p) {
+import React from "react";
+import p5 from "p5";
 
+
+
+export class Sketch03 extends React.Component {
+  constructor(props) {
+    super(props)
+    this.myRef = React.createRef()
+  }
+
+  Sketch = (p) => {
 let angnoise, radiusnoise;
 let xnoise, ynoise;
 let angle = -p.PI/2;
@@ -63,6 +73,15 @@ let y2 = centerY + (radius * p.sin(opprad));
  p.line(x1, y1, x2, y2);
 
 
-  };
+  };};
+  componentDidMount() {
+      this.myP5 = new p5(this.Sketch, this.myRef.current)
+    }
 
-};
+  render() {
+      return (
+        <div ref={this.myRef}>
+        </div>
+      )
+    }
+  }

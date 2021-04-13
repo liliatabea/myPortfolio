@@ -1,4 +1,15 @@
-export default function sketch01 (p) {
+import React from "react";
+import p5 from "p5";
+
+
+
+export class Sketch01 extends React.Component {
+  constructor(props) {
+    super(props)
+    this.myRef = React.createRef()
+  }
+
+  Sketch = (p) => {
 
 let height = 500;
 let width;
@@ -32,3 +43,14 @@ let xoff = 0;
 
   };
 };
+componentDidMount() {
+this.myP5 = new p5(this.Sketch, this.myRef.current)
+}
+
+render() {
+return (
+<div ref={this.myRef}>
+</div>
+)
+}
+}

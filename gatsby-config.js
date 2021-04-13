@@ -19,7 +19,6 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
-        icon: `${__dirname}/content/assets/icon.png`,
       },
     },
     {
