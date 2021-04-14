@@ -10,7 +10,7 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 // for use of P5
-import { Sketch03 } from '../sketches/contact/sketch03';
+import { Sketch03 } from '../sketches/sketch03';
 
 
 const ContactPage = ({ data }, location) => {

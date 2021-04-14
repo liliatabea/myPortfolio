@@ -9,8 +9,8 @@ import "../utils/css/screen.css"
 
 
 // for use of P5
-import { Sketch01 } from '../sketches/about/sketch01';
-import { Sketch02 } from '../sketches/about/sketch02';
+import { Sketch01 } from '../sketches/sketch01';
+import { Sketch02 } from '../sketches/sketch02';
 
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -42,7 +42,8 @@ const AboutPage = ({ data }, location) => {
           </p>
           <p>
           Spending quite some time at home recently, I've completed a <a href="https://www.codecademy.com" target="_blank" rel="noreferrer" tabindex="0">codecademy</a> career path in web development.
-          </p><figure className="kg-card kg-embed-card">
+          </p>
+          <figure className="kg-card kg-embed-card">
           <Sketch01/>
           </figure>
           <p>

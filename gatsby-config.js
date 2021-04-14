@@ -94,7 +94,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `${__dirname}/content/assets/icon.png`,
+        icon: `${__dirname}/src/images/icon.png`,
 
       },
     },

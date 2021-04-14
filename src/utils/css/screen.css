@@ -508,8 +508,9 @@ body {
 
 .post-content-title {
     margin: 0 0 1vw;
-    color: var(--color-base);
-    text-align: left;
+    color: color(var(--color-border) l(-20%));
+
+    text-align: center;
     font-size: 3.2rem;
     font-weight: normal;
     text-transform: uppercase;

@@ -8,7 +8,7 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 // for use of P5
-import { Sketch04 } from '../sketches/contact/sketch04';
+import { Sketch04 } from '../sketches/sketch04';
 
 const ContactSubmitPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
