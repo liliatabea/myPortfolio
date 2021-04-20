@@ -19,7 +19,7 @@ It's been very rewarding to collaborate with a client over such a long time. Whi
 
 </div>
 
-<div id="traditionLine" class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div id="traditionLine" class="kg-card kg-image-card kg-width-wide ">
 
 ![Gottlieber tradition line](./GottlieberSpezialitaeten_Tradition.jpg)
 
@@ -34,7 +34,7 @@ In 2020, the Tradition Line was completely revamped. While some elements (light 
 </div>
 
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Gottlieber collection](./GottlieberSpezialitaeten_Diverse.jpg)
 
@@ -47,7 +47,7 @@ For the 2021 Premium Line relaunch, I designed the base package plus four differ
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Gottlieber premium line](./GottlieberSpezialitaeten_PremiumSleeves.jpg)
 

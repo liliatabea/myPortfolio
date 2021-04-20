@@ -15,7 +15,7 @@ const DisclaimerPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="Contact" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="Copyright" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">

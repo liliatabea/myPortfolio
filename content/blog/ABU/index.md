@@ -11,7 +11,7 @@ ABU (Association Bethlehem University) is a non-governmental organization that h
 
 I was approached by the managing director, Erika Burri, to design the new identity as well as some print products for fundraising. It was a great opportunity to be involved in the project from the very start. Working closely with Erika, who was responsible for writing the content, I was able to co-conceptualize the products so that the content fit well with the design.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card" style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![ABU Flyer](./ABU_flyer.jpg)
 
@@ -19,13 +19,13 @@ I was approached by the managing director, Erika Burri, to design the new identi
 
 The logo can be used in different colors and features two intertwined diamonds, derived from the logo of Bethlehem University, which shows three triangles pointing upwards. The diamonds 'fill in the blanks' and stand metaphorically for partnership - with the university, between students, but also between the two countries of Israel and Palestine.
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![ABU](./ABU-BU_logo.gif)
 
 </div>
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![ABU](./ABU_logos.png)
 
@@ -33,14 +33,14 @@ The logo can be used in different colors and features two intertwined diamonds, 
 
 An eight-page brochure provides information about the foundation's activities and the impact of getting involved. The logo is playfully used as a colored ornament. The main colors, olive and burgundy, are inspired by the barren landscape reflected in the Palestinian flag.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card " style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![ABU Brochure first spread](./ABU_p1.jpg)
 
 </div>
 
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card" style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![ABU Brochure second spread](./ABU_p2.jpg)
 
@@ -48,7 +48,7 @@ An eight-page brochure provides information about the foundation's activities an
 
 Thanks to the special folding technique with center cut, the brochure contains a flipside poster that's only revealed when fully unfolded.
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![ABU how to fold](./ABU_fold.jpg)
 
@@ -57,7 +57,7 @@ Thanks to the special folding technique with center cut, the brochure contains a
 To get imagery for the poster, we carefully briefed three students and equipped them with cameras to document their daily 'way to education'.
 
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card" style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![ABU poster](./ABU_poster.jpg)
 
@@ -65,7 +65,7 @@ To get imagery for the poster, we carefully briefed three students and equipped 
 
 The paths and images are partially cut, both in reality and on the poster.
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![ABU](./ABU_foto2.jpg)
 

@@ -8,7 +8,7 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 // for use of P5
-import { Sketch04 } from '../sketches/sketch04';
+import { SketchFour } from '../sketches/sketch04';
 
 const ContactSubmitPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -27,7 +27,7 @@ const ContactSubmitPage = ({ data }, location) => {
           <div className="post-content page-template post-content-body center">
 
           <figure className="kg-embed-card">
-          <Sketch04 />
+          <SketchFour />
           </figure>
 
 

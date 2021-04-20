@@ -29,7 +29,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-              <img src="logo.png" alt="°"/>
+              <img src="../images/icon.png" alt="°"/>
             </Link>
           </div>
           <div className="site-head-right">
@@ -54,7 +54,7 @@ const Layout = props => {
 
       </main>
       <footer className="site-foot">
-      <Link to={`/disclaimer`}>&copy;</Link> {new Date().getFullYear()} by <Link to={`/`}> {title}.</Link> I built this website in {" "}
+      <Link to={`/disclaimer`}>&copy;</Link> {new Date().getFullYear()} by <Link to={`/about`}>Lilia Rusterholtz.</Link> I built this website in {" "}
         <a
           href="https://reactjs.org/"
           target="_blank"

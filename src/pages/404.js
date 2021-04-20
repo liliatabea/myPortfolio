@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 
 // for use of P5
-import { Sketch04 } from '../sketches/sketch04';
+import { SketchFour } from '../sketches/sketch04';
 
 
 class NotFoundPage extends React.Component {
@@ -25,7 +25,7 @@ class NotFoundPage extends React.Component {
           <div className="post-content page-template post-content-body center">
 
           <figure className="kg-embed-card">
-          <Sketch04/>
+          <SketchFour/>
           </figure>
         </div>
         </article>

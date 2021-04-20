@@ -3,7 +3,7 @@ import p5 from "p5";
 
 
 
-export class Sketch01 extends React.Component {
+export class SketchOne extends React.Component {
   constructor(props) {
     super(props)
     this.myRef = React.createRef()

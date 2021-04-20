@@ -10,7 +10,7 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 // for use of P5
-import { Sketch03 } from '../sketches/sketch03';
+import { SketchThree } from '../sketches/sketch03';
 
 
 const ContactPage = ({ data }, location) => {
@@ -27,7 +27,7 @@ const ContactPage = ({ data }, location) => {
           </h1>
           <h2>I'd be happy to hear from you. <br/>Drop me a note or write an email to <a className="headerLink" href="mailto:info@lrvc.ch">info@lrvc.ch</a></h2>
           <figure className="kg-embed-card">
-          <Sketch03 />
+          <SketchThree />
           </figure>
           <p className="center">or linger here for some time and watch the flower draw …</p>
           <ContactForm></ContactForm>

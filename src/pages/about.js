@@ -9,8 +9,8 @@ import "../utils/css/screen.css"
 
 
 // for use of P5
-import { Sketch01 } from '../sketches/sketch01';
-import { Sketch02 } from '../sketches/sketch02';
+import { SketchOne } from '../sketches/sketch01';
+import { SketchTwo } from '../sketches/sketch02';
 
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -25,7 +25,7 @@ const AboutPage = ({ data }, location) => {
             Just a few lines …
           </h1>
           <figure className="kg-card kg-embed-card">
-          <Sketch02/>
+          <SketchTwo/>
           </figure>
           <p>
           I graduated from <a href="https://www.fhnw.ch/en/about-fhnw/schools/academy-of-art-and-design/institutes/institute-of-visual-communication" target="_blank" rel="noreferrer" tabindex="0">Basel School of Design</a> with a degree in visual communication. In 2007, I moved to Zürich where I worked as a web and graphic designer and organised the <a href="https://www.pechakucha.com" target="_blank" rel="noreferrer" tabindex="0">PechaKuchaNights.</a> Early 2011, I had the opportunity to move to Singapore with my family. Surrounded by an inspiring group of researchers and urban designers, I founded my own studio, learned how to code and closely collaborated with my clients, mainly from academia.
@@ -44,7 +44,7 @@ const AboutPage = ({ data }, location) => {
           Spending quite some time at home recently, I've completed a <a href="https://www.codecademy.com" target="_blank" rel="noreferrer" tabindex="0">codecademy</a> career path in web development.
           </p>
           <figure className="kg-card kg-embed-card">
-          <Sketch01/>
+          <SketchOne/>
           </figure>
           <p>
           If you'd like to collaborate, feel free to <Link to={`/contact`}>get in touch.</Link>

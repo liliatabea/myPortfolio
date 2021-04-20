@@ -17,7 +17,7 @@ As a reference to the urban design context of the exhibition space – the build
 Photos by <a href="http://www.carlinateteris.com/">Carlina Teteris</a>
 </p>
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card" style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![Re:Imagining Cities flyer](./ReImaginingCities_flyer.jpg)
 
@@ -39,7 +39,7 @@ The invitation card was stamped in glossy black on off-white cardboard.
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full kg-nopointer">
+<div class="kg-card kg-image-card kg-width-full ">
 
 ![Re:Imagining Cities postcards and label](./ReImaginingCities_detail2.jpg)
 
@@ -76,7 +76,7 @@ The invitation card was stamped in glossy black on off-white cardboard.
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Re:Imagining Cities backlanes book and label](./ReImaginingCities_detail4.jpg)
 

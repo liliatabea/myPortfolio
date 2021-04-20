@@ -24,7 +24,7 @@ class BlogPostTemplate extends React.Component {
 
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
           </header>
-      
+
           {post.frontmatter.thumbnail && (
             <div className="post-content-image">
               <Img

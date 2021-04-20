@@ -11,13 +11,13 @@ The Future Cities Magazine is a magazine published bi-annually by the [Future Ci
 
 I was responsible for the identity, design and print coordination of the magazine. In collaboration with Uta Bogenrieder, I designed several editions and developed a template for subsequent issues.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card"  style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![FCM Missing Map spread](./FCM_spread1a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![FCM Missing Map foto](./FCM_spread1b.jpg)
 
@@ -25,13 +25,13 @@ I was responsible for the identity, design and print coordination of the magazin
 
 The overall look is light and airy, combining maximum readability with the presentation of high-quality, large-format images. The page size is 205 × 274 mm and enables many layout options, and reading comfort.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card"  style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![FCM pixels spread](./FCM_spread2a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![FCM pixels foto](./FCM_spread2b.jpg)
 
@@ -39,13 +39,13 @@ The overall look is light and airy, combining maximum readability with the prese
 
 Text flows over either one or two columns. Additionally, there are many options for more sophisticated typography.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card"  style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![FCM Sumatra plantation spread](./FCM_spread3a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![FCM Sumatra plantation foto](./FCM_spread3b.jpg)
 
@@ -54,13 +54,13 @@ Text flows over either one or two columns. Additionally, there are many options 
 
 The most extensive issue was a 166 page compendium by the chair of Prof. Marc Angélil, edited by Sascha Roesler, on Natural Ventilation in Singapore and on Sumatra.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card"  style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![FCM South-East-Asia maps spread](./FCM_spread_4a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![FCM South-East-Asia maps foto](./FCM_spread_4b.jpg)
 
@@ -68,13 +68,13 @@ The most extensive issue was a 166 page compendium by the chair of Prof. Marc An
 
 A picture series by artist Katja Jug, printed full bleed on uncoated paper, was featured.
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![FCM Katja Jug images](./FCM_spread_kj-a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full kg-nopointer">
+<div class="kg-card kg-image-card kg-width-full ">
 
 ![FCM Katja Jug images](./FCM_spread_kj-b.jpg)
 
@@ -82,31 +82,31 @@ A picture series by artist Katja Jug, printed full bleed on uncoated paper, was 
 
 It was a real challenge to assemble the diverse material, brush up the 300+ images and infographics, and layout the whole content in order to purposefully communicate the research findings. The design proved to be robust and flexible enough for the nitty gritty content.
 
-<div class="kg-card kg-image-card kg-image-shadow kg-nopointer">
+<div class="kg-card kg-image-card"  style="box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 10px 20px 25px rgba(0, 0, 0, 0.25);">
 
 ![FCM batak house construction spread](./FCM_spread5a.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![FCM batak house construction foto](./FCM_spread5b.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![FCM what the climate foto](./FCM_spread5e.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![FCM HDB ventilation foto](./FCM_spread5c.jpg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![FCM Strait of Singapore foto](./FCM_spread5d.jpg)
 

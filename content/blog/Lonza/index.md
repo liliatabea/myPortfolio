@@ -39,7 +39,7 @@ We elaborated a geometrical system based on the Lonza logo, with clear definitio
 
 With these guidelines, the Lonza graphic department can also add further icons to their catalogue.
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Lonza sketching](./LONZA_sketches.jpg)
 

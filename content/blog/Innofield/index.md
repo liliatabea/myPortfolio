@@ -11,7 +11,7 @@ Innofield (today [flow.swiss](https://flow.swiss/)) offers premium cloud service
 
 In teamwork, we created a storytelling microsite with isometric visualizations. The site is structured in four parts, highlighting the four main features of the product.
 
-<div class="kg-card kg-image-card kg-nopointer">
+<div class="kg-card kg-image-card ">
 
 ![Innofield power cord flow](./Innofield_dark_all.jpg)
 
@@ -20,7 +20,7 @@ In teamwork, we created a storytelling microsite with isometric visualizations. 
 Like a power cord, a red thread leads from one topic to the next.
 
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Innofield dark to light](./Innofield_dark_to_light.gif)
 
@@ -29,7 +29,7 @@ Like a power cord, a red thread leads from one topic to the next.
 Users can switch from dark to light theme.
 
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Innofield latency](./Innofield_P3.gif)
 
@@ -38,7 +38,7 @@ Users can switch from dark to light theme.
 
 Subtle, playful animations allow more details to be accommodated within the illustrations.
 
-<div class="kg-card kg-image-card kg-width-wide kg-nopointer">
+<div class="kg-card kg-image-card kg-width-wide ">
 
 ![Innofield storage](./Innofield_dark_P4.gif)
 
